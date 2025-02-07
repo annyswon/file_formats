@@ -23,4 +23,4 @@ pip install avro
 
 This script expects for .csv file in CSV_FILE_PATH and outputing .avro file with name in AVRO_NAME variable, also it takes in assumption about data types inside csv file for generating avro schema so there is no need for any additional info
 
-[preview of avro file](assets/photo_2025-02-07_8.22.05PM.jpeg)
+[preview of avro file](https://github.com/annyswon/file_formats/blob/main/assets/photo_2025-02-07_8.22.05PM.jpeg)
